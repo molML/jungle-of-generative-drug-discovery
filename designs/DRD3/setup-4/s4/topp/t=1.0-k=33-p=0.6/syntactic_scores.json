@@ -1,0 +1,162 @@
+{
+    "@50000": {
+        "validity": 0.99992,
+        "uniqueness": 0.00342,
+        "novelty": 0.00332,
+        "n_valid": 49996,
+        "n_unique": 171,
+        "n_novel": 166
+    },
+    "@100000": {
+        "validity": 0.99992,
+        "uniqueness": 0.0019,
+        "novelty": 0.00185,
+        "n_valid": 99992,
+        "n_unique": 190,
+        "n_novel": 185
+    },
+    "@150000": {
+        "validity": 0.9998933333333333,
+        "uniqueness": 0.0013466666666666666,
+        "novelty": 0.0013133333333333332,
+        "n_valid": 149984,
+        "n_unique": 202,
+        "n_novel": 197
+    },
+    "@200000": {
+        "validity": 0.999905,
+        "uniqueness": 0.001045,
+        "novelty": 0.00102,
+        "n_valid": 199981,
+        "n_unique": 209,
+        "n_novel": 204
+    },
+    "@250000": {
+        "validity": 0.9999,
+        "uniqueness": 0.000864,
+        "novelty": 0.000844,
+        "n_valid": 249975,
+        "n_unique": 216,
+        "n_novel": 211
+    },
+    "@300000": {
+        "validity": 0.9999,
+        "uniqueness": 0.0007366666666666667,
+        "novelty": 0.00072,
+        "n_valid": 299970,
+        "n_unique": 221,
+        "n_novel": 216
+    },
+    "@350000": {
+        "validity": 0.9999,
+        "uniqueness": 0.0006342857142857143,
+        "novelty": 0.00062,
+        "n_valid": 349965,
+        "n_unique": 222,
+        "n_novel": 217
+    },
+    "@400000": {
+        "validity": 0.9999,
+        "uniqueness": 0.00056,
+        "novelty": 0.0005475,
+        "n_valid": 399960,
+        "n_unique": 224,
+        "n_novel": 219
+    },
+    "@450000": {
+        "validity": 0.9999066666666667,
+        "uniqueness": 0.0005088888888888889,
+        "novelty": 0.0004977777777777778,
+        "n_valid": 449958,
+        "n_unique": 229,
+        "n_novel": 224
+    },
+    "@500000": {
+        "validity": 0.99991,
+        "uniqueness": 0.00046,
+        "novelty": 0.00045,
+        "n_valid": 499955,
+        "n_unique": 230,
+        "n_novel": 225
+    },
+    "@550000": {
+        "validity": 0.9999109090909091,
+        "uniqueness": 0.00042181818181818184,
+        "novelty": 0.0004127272727272727,
+        "n_valid": 549951,
+        "n_unique": 232,
+        "n_novel": 227
+    },
+    "@600000": {
+        "validity": 0.9999083333333333,
+        "uniqueness": 0.00038833333333333336,
+        "novelty": 0.00038,
+        "n_valid": 599945,
+        "n_unique": 233,
+        "n_novel": 228
+    },
+    "@650000": {
+        "validity": 0.9999107692307693,
+        "uniqueness": 0.00035846153846153846,
+        "novelty": 0.0003507692307692308,
+        "n_valid": 649942,
+        "n_unique": 233,
+        "n_novel": 228
+    },
+    "@700000": {
+        "validity": 0.9999085714285715,
+        "uniqueness": 0.00033428571428571426,
+        "novelty": 0.0003271428571428571,
+        "n_valid": 699936,
+        "n_unique": 234,
+        "n_novel": 229
+    },
+    "@750000": {
+        "validity": 0.9999066666666667,
+        "uniqueness": 0.000312,
+        "novelty": 0.00030533333333333335,
+        "n_valid": 749930,
+        "n_unique": 234,
+        "n_novel": 229
+    },
+    "@800000": {
+        "validity": 0.99990625,
+        "uniqueness": 0.00029375,
+        "novelty": 0.0002875,
+        "n_valid": 799925,
+        "n_unique": 235,
+        "n_novel": 230
+    },
+    "@850000": {
+        "validity": 0.9999070588235294,
+        "uniqueness": 0.0002776470588235294,
+        "novelty": 0.0002717647058823529,
+        "n_valid": 849921,
+        "n_unique": 236,
+        "n_novel": 231
+    },
+    "@900000": {
+        "validity": 0.9999077777777777,
+        "uniqueness": 0.00026333333333333336,
+        "novelty": 0.0002577777777777778,
+        "n_valid": 899917,
+        "n_unique": 237,
+        "n_novel": 232
+    },
+    "@950000": {
+        "validity": 0.9999063157894736,
+        "uniqueness": 0.00025052631578947367,
+        "novelty": 0.00024526315789473685,
+        "n_valid": 949911,
+        "n_unique": 238,
+        "n_novel": 233
+    },
+    "@1000000": {
+        "validity": 0.999908,
+        "uniqueness": 0.000238,
+        "novelty": 0.000233,
+        "n_valid": 999908,
+        "n_unique": 238,
+        "n_novel": 233
+    }
+}
