@@ -1,0 +1,162 @@
+{
+    "@50000": {
+        "validity": 0.28172,
+        "uniqueness": 0.27982,
+        "novelty": 0.2787,
+        "n_valid": 14086,
+        "n_unique": 13991,
+        "n_novel": 13935
+    },
+    "@100000": {
+        "validity": 0.28107,
+        "uniqueness": 0.27844,
+        "novelty": 0.27733,
+        "n_valid": 28107,
+        "n_unique": 27844,
+        "n_novel": 27733
+    },
+    "@150000": {
+        "validity": 0.28232,
+        "uniqueness": 0.27909333333333336,
+        "novelty": 0.27798,
+        "n_valid": 42348,
+        "n_unique": 41864,
+        "n_novel": 41697
+    },
+    "@200000": {
+        "validity": 0.282755,
+        "uniqueness": 0.278785,
+        "novelty": 0.277695,
+        "n_valid": 56551,
+        "n_unique": 55757,
+        "n_novel": 55539
+    },
+    "@250000": {
+        "validity": 0.282252,
+        "uniqueness": 0.27786,
+        "novelty": 0.2768,
+        "n_valid": 70563,
+        "n_unique": 69465,
+        "n_novel": 69200
+    },
+    "@300000": {
+        "validity": 0.28252,
+        "uniqueness": 0.27777666666666667,
+        "novelty": 0.27675,
+        "n_valid": 84756,
+        "n_unique": 83333,
+        "n_novel": 83025
+    },
+    "@350000": {
+        "validity": 0.2822342857142857,
+        "uniqueness": 0.27715428571428574,
+        "novelty": 0.2761,
+        "n_valid": 98782,
+        "n_unique": 97004,
+        "n_novel": 96635
+    },
+    "@400000": {
+        "validity": 0.282245,
+        "uniqueness": 0.27684,
+        "novelty": 0.2758125,
+        "n_valid": 112898,
+        "n_unique": 110736,
+        "n_novel": 110325
+    },
+    "@450000": {
+        "validity": 0.2822511111111111,
+        "uniqueness": 0.27655111111111114,
+        "novelty": 0.27556,
+        "n_valid": 127013,
+        "n_unique": 124448,
+        "n_novel": 124002
+    },
+    "@500000": {
+        "validity": 0.282198,
+        "uniqueness": 0.276254,
+        "novelty": 0.275272,
+        "n_valid": 141099,
+        "n_unique": 138127,
+        "n_novel": 137636
+    },
+    "@550000": {
+        "validity": 0.2818909090909091,
+        "uniqueness": 0.27566,
+        "novelty": 0.2746890909090909,
+        "n_valid": 155040,
+        "n_unique": 151613,
+        "n_novel": 151079
+    },
+    "@600000": {
+        "validity": 0.2821283333333333,
+        "uniqueness": 0.27563666666666664,
+        "novelty": 0.27467166666666665,
+        "n_valid": 169277,
+        "n_unique": 165382,
+        "n_novel": 164803
+    },
+    "@650000": {
+        "validity": 0.28240461538461537,
+        "uniqueness": 0.27576153846153845,
+        "novelty": 0.27479692307692305,
+        "n_valid": 183563,
+        "n_unique": 179245,
+        "n_novel": 178618
+    },
+    "@700000": {
+        "validity": 0.28247,
+        "uniqueness": 0.27564285714285713,
+        "novelty": 0.27469,
+        "n_valid": 197729,
+        "n_unique": 192950,
+        "n_novel": 192283
+    },
+    "@750000": {
+        "validity": 0.282272,
+        "uniqueness": 0.275292,
+        "novelty": 0.2743386666666667,
+        "n_valid": 211704,
+        "n_unique": 206469,
+        "n_novel": 205754
+    },
+    "@800000": {
+        "validity": 0.28216,
+        "uniqueness": 0.2750425,
+        "novelty": 0.27409,
+        "n_valid": 225728,
+        "n_unique": 220034,
+        "n_novel": 219272
+    },
+    "@850000": {
+        "validity": 0.2820729411764706,
+        "uniqueness": 0.27479882352941176,
+        "novelty": 0.2738435294117647,
+        "n_valid": 239762,
+        "n_unique": 233579,
+        "n_novel": 232767
+    },
+    "@900000": {
+        "validity": 0.2820533333333333,
+        "uniqueness": 0.27457444444444445,
+        "novelty": 0.27362444444444445,
+        "n_valid": 253848,
+        "n_unique": 247117,
+        "n_novel": 246262
+    },
+    "@950000": {
+        "validity": 0.28192736842105265,
+        "uniqueness": 0.2742894736842105,
+        "novelty": 0.2733378947368421,
+        "n_valid": 267831,
+        "n_unique": 260575,
+        "n_novel": 259671
+    },
+    "@1000000": {
+        "validity": 0.28197,
+        "uniqueness": 0.274186,
+        "novelty": 0.273239,
+        "n_valid": 281970,
+        "n_unique": 274186,
+        "n_novel": 273239
+    }
+}
