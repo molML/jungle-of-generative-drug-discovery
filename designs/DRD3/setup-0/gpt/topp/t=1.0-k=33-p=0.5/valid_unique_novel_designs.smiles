@@ -1,0 +1,7 @@
+COc1ccccc1N1CCN(CCCCNC(=O)c2ccc(-n3ccnc3)cc2)CC1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3cccc4ccccc34)CC2)cc(C(F)(F)F)n1
+CC(C)(C)c1nc(N2CCN(CCCCN3C(=O)CCc4ccccc43)CC2)cc(C(F)(F)F)n1
+CCCN(CCN1CCN(c2cccc(Cl)c2Cl)CC1)C1CCc2c(O)cccc2C1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccc(-n4ccnc4)cc3)CC2)cc(C(F)(F)F)n1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccccc3)CC2)cc(C(F)(F)F)n1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccccc3-c3ccccc3)CC2)cc(C(F)(F)F)n1
