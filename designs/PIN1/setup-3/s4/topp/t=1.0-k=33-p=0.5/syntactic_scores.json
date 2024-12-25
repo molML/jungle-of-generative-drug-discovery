@@ -1,0 +1,162 @@
+{
+    "@50000": {
+        "validity": 1.0,
+        "uniqueness": 0.00598,
+        "novelty": 0.0058,
+        "n_valid": 50000,
+        "n_unique": 299,
+        "n_novel": 290
+    },
+    "@100000": {
+        "validity": 1.0,
+        "uniqueness": 0.00308,
+        "novelty": 0.00299,
+        "n_valid": 100000,
+        "n_unique": 308,
+        "n_novel": 299
+    },
+    "@150000": {
+        "validity": 1.0,
+        "uniqueness": 0.0021,
+        "novelty": 0.00204,
+        "n_valid": 150000,
+        "n_unique": 315,
+        "n_novel": 306
+    },
+    "@200000": {
+        "validity": 1.0,
+        "uniqueness": 0.001595,
+        "novelty": 0.00155,
+        "n_valid": 200000,
+        "n_unique": 319,
+        "n_novel": 310
+    },
+    "@250000": {
+        "validity": 1.0,
+        "uniqueness": 0.00128,
+        "novelty": 0.001244,
+        "n_valid": 250000,
+        "n_unique": 320,
+        "n_novel": 311
+    },
+    "@300000": {
+        "validity": 1.0,
+        "uniqueness": 0.00107,
+        "novelty": 0.00104,
+        "n_valid": 300000,
+        "n_unique": 321,
+        "n_novel": 312
+    },
+    "@350000": {
+        "validity": 1.0,
+        "uniqueness": 0.0009228571428571429,
+        "novelty": 0.0008971428571428571,
+        "n_valid": 350000,
+        "n_unique": 323,
+        "n_novel": 314
+    },
+    "@400000": {
+        "validity": 1.0,
+        "uniqueness": 0.00081,
+        "novelty": 0.0007875,
+        "n_valid": 400000,
+        "n_unique": 324,
+        "n_novel": 315
+    },
+    "@450000": {
+        "validity": 1.0,
+        "uniqueness": 0.0007222222222222222,
+        "novelty": 0.0007022222222222222,
+        "n_valid": 450000,
+        "n_unique": 325,
+        "n_novel": 316
+    },
+    "@500000": {
+        "validity": 1.0,
+        "uniqueness": 0.000656,
+        "novelty": 0.000638,
+        "n_valid": 500000,
+        "n_unique": 328,
+        "n_novel": 319
+    },
+    "@550000": {
+        "validity": 1.0,
+        "uniqueness": 0.0005963636363636364,
+        "novelty": 0.00058,
+        "n_valid": 550000,
+        "n_unique": 328,
+        "n_novel": 319
+    },
+    "@600000": {
+        "validity": 1.0,
+        "uniqueness": 0.0005466666666666667,
+        "novelty": 0.0005316666666666666,
+        "n_valid": 600000,
+        "n_unique": 328,
+        "n_novel": 319
+    },
+    "@650000": {
+        "validity": 1.0,
+        "uniqueness": 0.0005061538461538462,
+        "novelty": 0.0004923076923076923,
+        "n_valid": 650000,
+        "n_unique": 329,
+        "n_novel": 320
+    },
+    "@700000": {
+        "validity": 1.0,
+        "uniqueness": 0.00047,
+        "novelty": 0.00045714285714285713,
+        "n_valid": 700000,
+        "n_unique": 329,
+        "n_novel": 320
+    },
+    "@750000": {
+        "validity": 1.0,
+        "uniqueness": 0.0004386666666666667,
+        "novelty": 0.00042666666666666667,
+        "n_valid": 750000,
+        "n_unique": 329,
+        "n_novel": 320
+    },
+    "@800000": {
+        "validity": 1.0,
+        "uniqueness": 0.00041125,
+        "novelty": 0.0004,
+        "n_valid": 800000,
+        "n_unique": 329,
+        "n_novel": 320
+    },
+    "@850000": {
+        "validity": 1.0,
+        "uniqueness": 0.0003870588235294118,
+        "novelty": 0.00037647058823529414,
+        "n_valid": 850000,
+        "n_unique": 329,
+        "n_novel": 320
+    },
+    "@900000": {
+        "validity": 1.0,
+        "uniqueness": 0.00036666666666666667,
+        "novelty": 0.00035666666666666664,
+        "n_valid": 900000,
+        "n_unique": 330,
+        "n_novel": 321
+    },
+    "@950000": {
+        "validity": 1.0,
+        "uniqueness": 0.0003473684210526316,
+        "novelty": 0.0003378947368421053,
+        "n_valid": 950000,
+        "n_unique": 330,
+        "n_novel": 321
+    },
+    "@1000000": {
+        "validity": 1.0,
+        "uniqueness": 0.00033,
+        "novelty": 0.000321,
+        "n_valid": 1000000,
+        "n_unique": 330,
+        "n_novel": 321
+    }
+}
