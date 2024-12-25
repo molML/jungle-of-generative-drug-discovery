@@ -1,0 +1,162 @@
+{
+    "@50000": {
+        "validity": 1.0,
+        "uniqueness": 0.00956,
+        "novelty": 0.00942,
+        "n_valid": 50000,
+        "n_unique": 478,
+        "n_novel": 471
+    },
+    "@100000": {
+        "validity": 1.0,
+        "uniqueness": 0.00523,
+        "novelty": 0.00516,
+        "n_valid": 100000,
+        "n_unique": 523,
+        "n_novel": 516
+    },
+    "@150000": {
+        "validity": 1.0,
+        "uniqueness": 0.0036133333333333334,
+        "novelty": 0.0035666666666666668,
+        "n_valid": 150000,
+        "n_unique": 542,
+        "n_novel": 535
+    },
+    "@200000": {
+        "validity": 1.0,
+        "uniqueness": 0.002795,
+        "novelty": 0.00276,
+        "n_valid": 200000,
+        "n_unique": 559,
+        "n_novel": 552
+    },
+    "@250000": {
+        "validity": 1.0,
+        "uniqueness": 0.00228,
+        "novelty": 0.002252,
+        "n_valid": 250000,
+        "n_unique": 570,
+        "n_novel": 563
+    },
+    "@300000": {
+        "validity": 1.0,
+        "uniqueness": 0.00194,
+        "novelty": 0.0019166666666666666,
+        "n_valid": 300000,
+        "n_unique": 582,
+        "n_novel": 575
+    },
+    "@350000": {
+        "validity": 1.0,
+        "uniqueness": 0.00168,
+        "novelty": 0.00166,
+        "n_valid": 350000,
+        "n_unique": 588,
+        "n_novel": 581
+    },
+    "@400000": {
+        "validity": 1.0,
+        "uniqueness": 0.0014825,
+        "novelty": 0.001465,
+        "n_valid": 400000,
+        "n_unique": 593,
+        "n_novel": 586
+    },
+    "@450000": {
+        "validity": 1.0,
+        "uniqueness": 0.0013266666666666667,
+        "novelty": 0.0013111111111111112,
+        "n_valid": 450000,
+        "n_unique": 597,
+        "n_novel": 590
+    },
+    "@500000": {
+        "validity": 1.0,
+        "uniqueness": 0.001204,
+        "novelty": 0.00119,
+        "n_valid": 500000,
+        "n_unique": 602,
+        "n_novel": 595
+    },
+    "@550000": {
+        "validity": 1.0,
+        "uniqueness": 0.0011,
+        "novelty": 0.0010872727272727273,
+        "n_valid": 550000,
+        "n_unique": 605,
+        "n_novel": 598
+    },
+    "@600000": {
+        "validity": 1.0,
+        "uniqueness": 0.0010116666666666666,
+        "novelty": 0.001,
+        "n_valid": 600000,
+        "n_unique": 607,
+        "n_novel": 600
+    },
+    "@650000": {
+        "validity": 1.0,
+        "uniqueness": 0.0009353846153846154,
+        "novelty": 0.0009246153846153846,
+        "n_valid": 650000,
+        "n_unique": 608,
+        "n_novel": 601
+    },
+    "@700000": {
+        "validity": 1.0,
+        "uniqueness": 0.0008757142857142858,
+        "novelty": 0.0008657142857142857,
+        "n_valid": 700000,
+        "n_unique": 613,
+        "n_novel": 606
+    },
+    "@750000": {
+        "validity": 1.0,
+        "uniqueness": 0.0008186666666666667,
+        "novelty": 0.0008093333333333333,
+        "n_valid": 750000,
+        "n_unique": 614,
+        "n_novel": 607
+    },
+    "@800000": {
+        "validity": 1.0,
+        "uniqueness": 0.0007725,
+        "novelty": 0.00076375,
+        "n_valid": 800000,
+        "n_unique": 618,
+        "n_novel": 611
+    },
+    "@850000": {
+        "validity": 1.0,
+        "uniqueness": 0.0007294117647058824,
+        "novelty": 0.0007211764705882353,
+        "n_valid": 850000,
+        "n_unique": 620,
+        "n_novel": 613
+    },
+    "@900000": {
+        "validity": 1.0,
+        "uniqueness": 0.0006888888888888888,
+        "novelty": 0.0006811111111111111,
+        "n_valid": 900000,
+        "n_unique": 620,
+        "n_novel": 613
+    },
+    "@950000": {
+        "validity": 1.0,
+        "uniqueness": 0.0006526315789473684,
+        "novelty": 0.0006452631578947369,
+        "n_valid": 950000,
+        "n_unique": 620,
+        "n_novel": 613
+    },
+    "@1000000": {
+        "validity": 1.0,
+        "uniqueness": 0.00062,
+        "novelty": 0.000613,
+        "n_valid": 1000000,
+        "n_unique": 620,
+        "n_novel": 613
+    }
+}
