@@ -1,0 +1,162 @@
+{
+    "@50000": {
+        "validity": 1.0,
+        "uniqueness": 6e-05,
+        "novelty": 6e-05,
+        "n_valid": 50000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@100000": {
+        "validity": 1.0,
+        "uniqueness": 3e-05,
+        "novelty": 3e-05,
+        "n_valid": 100000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@150000": {
+        "validity": 1.0,
+        "uniqueness": 2e-05,
+        "novelty": 2e-05,
+        "n_valid": 150000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@200000": {
+        "validity": 1.0,
+        "uniqueness": 1.5e-05,
+        "novelty": 1.5e-05,
+        "n_valid": 200000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@250000": {
+        "validity": 1.0,
+        "uniqueness": 1.2e-05,
+        "novelty": 1.2e-05,
+        "n_valid": 250000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@300000": {
+        "validity": 1.0,
+        "uniqueness": 1e-05,
+        "novelty": 1e-05,
+        "n_valid": 300000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@350000": {
+        "validity": 1.0,
+        "uniqueness": 8.571428571428571e-06,
+        "novelty": 8.571428571428571e-06,
+        "n_valid": 350000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@400000": {
+        "validity": 1.0,
+        "uniqueness": 7.5e-06,
+        "novelty": 7.5e-06,
+        "n_valid": 400000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@450000": {
+        "validity": 1.0,
+        "uniqueness": 6.666666666666667e-06,
+        "novelty": 6.666666666666667e-06,
+        "n_valid": 450000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@500000": {
+        "validity": 1.0,
+        "uniqueness": 6e-06,
+        "novelty": 6e-06,
+        "n_valid": 500000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@550000": {
+        "validity": 1.0,
+        "uniqueness": 5.4545454545454545e-06,
+        "novelty": 5.4545454545454545e-06,
+        "n_valid": 550000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@600000": {
+        "validity": 1.0,
+        "uniqueness": 5e-06,
+        "novelty": 5e-06,
+        "n_valid": 600000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@650000": {
+        "validity": 1.0,
+        "uniqueness": 4.615384615384615e-06,
+        "novelty": 4.615384615384615e-06,
+        "n_valid": 650000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@700000": {
+        "validity": 1.0,
+        "uniqueness": 4.2857142857142855e-06,
+        "novelty": 4.2857142857142855e-06,
+        "n_valid": 700000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@750000": {
+        "validity": 1.0,
+        "uniqueness": 4e-06,
+        "novelty": 4e-06,
+        "n_valid": 750000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@800000": {
+        "validity": 1.0,
+        "uniqueness": 3.75e-06,
+        "novelty": 3.75e-06,
+        "n_valid": 800000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@850000": {
+        "validity": 1.0,
+        "uniqueness": 3.5294117647058825e-06,
+        "novelty": 3.5294117647058825e-06,
+        "n_valid": 850000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@900000": {
+        "validity": 1.0,
+        "uniqueness": 3.3333333333333333e-06,
+        "novelty": 3.3333333333333333e-06,
+        "n_valid": 900000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@950000": {
+        "validity": 1.0,
+        "uniqueness": 3.157894736842105e-06,
+        "novelty": 3.157894736842105e-06,
+        "n_valid": 950000,
+        "n_unique": 3,
+        "n_novel": 3
+    },
+    "@1000000": {
+        "validity": 1.0,
+        "uniqueness": 3e-06,
+        "novelty": 3e-06,
+        "n_valid": 1000000,
+        "n_unique": 3,
+        "n_novel": 3
+    }
+}
