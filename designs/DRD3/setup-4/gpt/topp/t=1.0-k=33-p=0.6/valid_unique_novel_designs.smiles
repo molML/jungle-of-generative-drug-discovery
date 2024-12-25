@@ -1,0 +1,5 @@
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccc4ccccc4c3)CC2)cc(C(F)(F)F)n1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccc4nonc4c3)CC2)cc(C(F)(F)F)n1
+CCCN(CCC)C1CCc2c(F)cccc2C1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccc(-c4ccccc4)cc3)CC2)cc(C(F)(F)F)n1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccc(F)cc3)CC2)cc(C(F)(F)F)n1
