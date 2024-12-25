@@ -1,0 +1,6 @@
+einops==0.8.0
+numpy==1.21.5
+opt_einsum==3.3.0
+rdkit==2024.3.5
+scipy==1.7.3
+torch==2.4.1
