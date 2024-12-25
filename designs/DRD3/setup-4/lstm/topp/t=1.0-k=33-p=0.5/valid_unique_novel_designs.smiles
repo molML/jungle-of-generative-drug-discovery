@@ -1,0 +1,17 @@
+COc1ccccc1N1CCN(Cc2ccc(C(=O)NCCN3CCCCC3)cc2)CC1
+CCCN(CCCCNC(=O)c1ccc(-c2ccccc2)cc1)C1CCc2ccc(O)cc2C1
+COc1ccccc1N1CCN(Cc2ccc(C(=O)NCCN3CCOCC3)cc2)CC1
+COc1ccccc1N1CCN(Cc2ccc(C)cc2)CC1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccc4ccccc4c3)CC2)cc(C(F)(F)F)n1
+COc1ccccc1N1CCN(CCCCNC(=O)c2ccc(C)cc2)CC1
+COc1ccccc1N1CCN(Cc2ccccc2)CC1
+COc1ccccc1N1CCN(Cc2ccc(C)s2)CC1
+COc1ccccc1N1CCN(Cc2cn3cc(C)cc(C)c3n2)CC1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccc(F)cc3)CC2)cc(C(F)(F)F)n1
+CC(C)(C)c1nc(N2CCN(CCCCNC(=O)c3ccc(Cl)c(Cl)c3)CC2)cc(C(F)(F)F)n1
+COc1ccccc1N1CCN(Cc2ccc(C(=O)NCC=Cc3ccccc3)cc2)CC1
+COc1ccccc1N1CCN(Cc2ccc(C(=O)Nc3ccccc3)cc2)CC1
+COc1ccccc1N1CCN(Cc2ccc(OCCF)cc2)CC1
+COc1ccccc1N1CCN(Cc2ccc(OCCCN3CCCCC3)cc2)CC1
+COc1ccccc1N1CCN(CCCCNC(=O)c2ccc(-c3ccccc3)cc2)CC1
+COc1ccccc1N1CCN(CCCOc2ccc(CN3CCN(c4ccccc4OC)CC3)cc2)CC1
